@@ -1,19 +1,20 @@
 {
-  "name": "http-vue-loader",
-  "version": "1.4.2",
+  "name": "requirejs-vue",
+  "version": "1.4.2-requirejs",
   "description": "Load .vue files directly from your html/js. No node.js environment, no build step.",
-  "main": "./src/httpVueLoader.js",
+  "main": "src/requirejs-vue.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FranckFreiburger/http-vue-loader.git"
+    "url": "git+https://github.com/jerry4718/requirejs-vue.git"
   },
   "keywords": [
-    "http",
+    "requirejs",
     "vue",
-    "loader"
+    "sfc",
+    "require-plugin"
   ],
   "author": "Franck Freiburger",
   "license": "MIT",
